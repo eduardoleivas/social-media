@@ -4,3 +4,4 @@ Vite
 ReactJS
 TailwindCSS
 ShadCN/ui
+Appwrite
